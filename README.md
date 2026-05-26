@@ -65,7 +65,7 @@
 
 <div align="center">
 
-<a href="[YOUR_PORTFOLIO_LINK](https://sri-gurramkonda.github.io/Github-Portfolio/)">
+<a href="https://sri-gurramkonda.github.io/Github-Portfolio/">
   <img src="https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/sri-venkat-gurramkonda/)">
+<a href="https://www.linkedin.com/in/sri-venkat-gurramkonda/">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 

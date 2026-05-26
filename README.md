@@ -1,20 +1,30 @@
+<div align="center">
+
 # Hey there 👋 I'm Sri Venkat Gurramkonda
 
-🎓 Master's Student in Data Science @ University of New Haven  
-🤖 Interested in AI, Deep Learning, NLP, Agentic AI, and Computer Vision  
-💡 Building AI systems using Python, PyTorch, TensorFlow, and LLMs  
-📍 West Haven, Connecticut  
+### 🚀 AI Engineer | Data Scientist | Deep Learning & NLP Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Master's+Student+in+Data+Science;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Building+AI+Systems+with+LLMs;Exploring+Agentic+AI+and+RAG;Aspiring+AI+Engineer+%26+Researcher" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Working on Deep Learning and NLP projects
-- 🌱 Learning Agentic AI and Generative AI systems
-- 🧠 Interested in Computer Vision and RAG architectures
-- 📊 Passionate about solving real-world problems using AI
-- ⚡ Goal: Become a Data Scientist / AI Engineer
+🎓 Master's Student in Data Science @ **University of New Haven**  
+🤖 Passionate about **Artificial Intelligence, Deep Learning, NLP, Computer Vision, and Agentic AI**  
+🧠 Building intelligent systems using **Python, PyTorch, TensorFlow, FAISS, and LLMs**  
+📚 Currently exploring:
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI Systems
+- Multi-Agent Workflows
+- LLM Fine-Tuning
+- AI for Real-World Applications
 
+⚡ Goal: Become a **Data Scientist / AI Engineer** building impactful AI systems.
+
+📍 West Haven, Connecticut
 ---
 
 ## 🛠️ Tech Stack
@@ -51,7 +61,20 @@
 
 ---
 
-## 📫 Connect With Me
+# 🌐 Let's Connect!
 
-- LinkedIn: www.linkedin.com/in/sri-venkat-gurramkonda
-- GitHub: github.com/srivenkatyadav17
+<div align="center">
+
+<a href="[YOUR_PORTFOLIO_LINK](https://sri-gurramkonda.github.io/Github-Portfolio/)">
+  <img src="https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="srivenkatyadav17@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/sri-venkat-gurramkonda/)">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>

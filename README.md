@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there 👋 I'm Sri Venkat Gurramkonda
+# Hi 👋 I'm Sri Venkat Gurramkonda
 
 ### 🚀 AI Engineer | Data Scientist | Deep Learning & NLP Enthusiast
 
